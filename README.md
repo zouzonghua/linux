@@ -93,7 +93,7 @@ cat /etc/shells
 安装&重启
 
 ```sh
-apt install zsh
+sudo apt install zsh -y
 chsh -s /bin/zsh
 sudo reboot
 ```
