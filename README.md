@@ -4,9 +4,9 @@
 
 为了提升系统的安全性和可靠性，我们可以进行基础的系统初始化设置。它们包括：
 
-1. [创建一个普通管理员账户](https://www.zouzonghua.cn/Linux/#%E4%B8%80%E5%88%9B%E5%BB%BA%E6%99%AE%E9%80%9A%E7%AE%A1%E7%90%86%E5%91%98%E8%B4%A6%E6%88%B7)
-2. [使用 SSH 密钥认证身份](https://www.zouzonghua.cn/Linux/#%E4%BA%8C%E4%BD%BF%E7%94%A8-ssh-%E5%AF%86%E9%92%A5%E7%99%BB%E5%BD%95%E4%BA%91%E6%9C%8D%E5%8A%A1%E5%99%A8)
-3. [禁用 SSH 密码登录](https://www.zouzonghua.cn/Linux/#%E4%B8%89%E7%A6%81%E7%94%A8-ssh-%E5%AF%86%E7%A0%81%E7%99%BB%E5%BD%95--root-%E8%B4%A6%E6%88%B7%E7%99%BB%E5%BD%95)
+1. [创建一个普通管理员账户](https://www.zouzonghua.cn/linux/#%E4%B8%80%E5%88%9B%E5%BB%BA%E6%99%AE%E9%80%9A%E7%AE%A1%E7%90%86%E5%91%98%E8%B4%A6%E6%88%B7)
+2. [使用 SSH 密钥认证身份](https://www.zouzonghua.cn/linux/#%E4%BA%8C%E4%BD%BF%E7%94%A8-ssh-%E5%AF%86%E9%92%A5%E7%99%BB%E5%BD%95%E4%BA%91%E6%9C%8D%E5%8A%A1%E5%99%A8)
+3. [禁用 SSH 密码登录](https://www.zouzonghua.cn/linux/#%E4%B8%89%E7%A6%81%E7%94%A8-ssh-%E5%AF%86%E7%A0%81%E7%99%BB%E5%BD%95--root-%E8%B4%A6%E6%88%B7%E7%99%BB%E5%BD%95)
 
 ### 一、创建普通管理员账户
 
