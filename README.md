@@ -1,4 +1,35 @@
-# debian
+# linux
+
+## archlinux
+
+### 安装 bspwm
+
+```sh
+sudo pacman -S xf86-video-qxl xorg xorg-xinit bspwm sxhkd dmenu nitrogen picom xfce4-terminal chromium arandr
+
+mkdir ~/.config/bspwm
+mkdir ~/.config/sxhkd
+
+cp /usr/share/doc/bspwm/examples/bspwmrc .config/bspwm/
+cp /usr/share/doc/bspwm/examples/sxhkdrc .config/sxhkd/
+
+vim .config/sxhkd/sxhkdrc
+
+cp /etc/X11/xinit/xinitrc .xinitrc
+vim .xinitrc
+
+setxkbmap ch &
+picom -f &
+exec bspwm
+
+sudo vim /etc/xdg/picom.conf
+
+#vsync = true
+
+```
+
+
+## debian
 
 ## 初始化设置
 
