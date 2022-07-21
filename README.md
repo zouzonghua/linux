@@ -26,6 +26,8 @@ sudo vim /etc/xdg/picom.conf
 
 #vsync = true
 
+startx
+
 ```
 
 
